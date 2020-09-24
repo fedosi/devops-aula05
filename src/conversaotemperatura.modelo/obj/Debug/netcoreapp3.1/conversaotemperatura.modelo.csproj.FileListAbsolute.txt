@@ -1,0 +1,9 @@
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.modelo\bin\Debug\netcoreapp3.1\conversaotemperatura.modelo.deps.json
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.modelo\bin\Debug\netcoreapp3.1\conversaotemperatura.modelo.dll
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.modelo\bin\Debug\netcoreapp3.1\conversaotemperatura.modelo.pdb
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.modelo\obj\Debug\netcoreapp3.1\conversaotemperatura.modelo.AssemblyInfoInputs.cache
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.modelo\obj\Debug\netcoreapp3.1\conversaotemperatura.modelo.AssemblyInfo.cs
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.modelo\obj\Debug\netcoreapp3.1\conversaotemperatura.modelo.csproj.CoreCompileInputs.cache
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.modelo\obj\Debug\netcoreapp3.1\conversaotemperatura.modelo.dll
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.modelo\obj\Debug\netcoreapp3.1\conversaotemperatura.modelo.pdb
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.modelo\obj\Debug\netcoreapp3.1\conversaotemperatura.modelo.csprojAssemblyReference.cache

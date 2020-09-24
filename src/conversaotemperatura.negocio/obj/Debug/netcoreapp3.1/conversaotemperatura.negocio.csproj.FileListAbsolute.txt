@@ -1,0 +1,12 @@
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.negocio\bin\Debug\netcoreapp3.1\conversaotemperatura.negocio.deps.json
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.negocio\bin\Debug\netcoreapp3.1\conversaotemperatura.negocio.dll
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.negocio\bin\Debug\netcoreapp3.1\conversaotemperatura.negocio.pdb
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.negocio\bin\Debug\netcoreapp3.1\conversaotemperatura.modelo.dll
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.negocio\bin\Debug\netcoreapp3.1\conversaotemperatura.modelo.pdb
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.negocio\obj\Debug\netcoreapp3.1\conversaotemperatura.negocio.csprojAssemblyReference.cache
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.negocio\obj\Debug\netcoreapp3.1\conversaotemperatura.negocio.AssemblyInfoInputs.cache
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.negocio\obj\Debug\netcoreapp3.1\conversaotemperatura.negocio.AssemblyInfo.cs
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.negocio\obj\Debug\netcoreapp3.1\conversaotemperatura.negocio.csproj.CopyComplete
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.negocio\obj\Debug\netcoreapp3.1\conversaotemperatura.negocio.dll
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.negocio\obj\Debug\netcoreapp3.1\conversaotemperatura.negocio.pdb
+C:\projetos\pos\fedosi\devops-aula05\src\conversaotemperatura.negocio\obj\Debug\netcoreapp3.1\conversaotemperatura.negocio.csproj.CoreCompileInputs.cache
