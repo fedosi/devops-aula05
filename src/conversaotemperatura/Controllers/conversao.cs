@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using conversaotemperatura.modelo;
-using conversaotemperatura.negocio.servicos;
+using conversaotemperatura.estrutura;
+using conversaotemperatura.imp;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -16,16 +16,17 @@ namespace conversaotemperatura.Controllers
     {
         // GET: api/<conversao>
         [HttpGet]
-        public Listarecursos Get()
+        public IEnumerable<string> Get()
         {
-            return servicoconversor.conversores();
+            return new string[] { "value1", "value2" };
         }
 
-        // GET api/<tipoconversao>/5
-        [HttpGet("{tipoconversao}/{valororigem}")]
-        public sconversorRetorno Get(string tipoconversao, string valororigem)
+        // GET api/<conversao>/5
+        [HttpGet("{id}")]
+        public sconversor Get(string unidadeorigem, string valororigem, string unidadedestino)
         {
-            return servicoconversor.executar(tipoconversao, valororigem);
+            sconversor ent = new sconversor(unidadeorigem, valororigem, unidadedestino);
+            return conversor.executar(ent);
         }
 
         // POST api/<conversao>
