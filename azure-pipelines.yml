@@ -17,14 +17,14 @@ steps:
   displayName: Build
   inputs:
     command: build
-    projects: 'src/**/*.csproj'
+    projects: 'src/conversaotemperatura/*.csproj'
     arguments: '--configuration $(buildConfiguration)'
 
 - task: DotNetCoreCLI@2
   displayName: Test
   inputs:
     command: test
-    projects: 'src/**/*Tests/*.csproj'
+    projects: 'src/conversaotemperaturateste/*.csproj'
     arguments: '--configuration $(buildConfiguration)'
 
 

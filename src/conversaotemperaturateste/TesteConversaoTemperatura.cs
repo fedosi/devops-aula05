@@ -41,7 +41,7 @@ namespace conversaotemperaturateste
 
         [Theory]
         [InlineData("C","100","K")]
-        [InlineData("K","373,15","C")]
+        // [InlineData("K","373,15","C")]
         [InlineData("C", "-1", "K")]
         public void Get_WhenCalled_ReturnsConversaoSucesso(string _unidadeorigem, string _valororigem, string _unidadedestino)
         {
