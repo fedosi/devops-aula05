@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uqxwkVnwZbrASPpgGgCWbef4sS7b4NfAoX0BRLgsJ2zuiuc8EEoeX6xN/s266fgPAmpNgiUhHRZthysU4hAqFg==",
+  "dgSpecHash": "bz6CTZcgggcGZPhl5FjH1eXh3mpQZPVz7hg9f8Gjd6m7YXD0iylNtaJDXf/0z664fLT8beg7bRujUNe0hxDZLQ==",
   "success": true,
-  "projectFilePath": "C:\\projetos\\pos\\fedosi\\devops-aula05\\src\\conversaotemperatura.negocio\\conversaotemperatura.negocio.csproj",
+  "projectFilePath": "C:\\Users\\ruben\\Source\\Repos\\conversao_temperatura\\src\\conversaotemperatura.negocio\\conversaotemperatura.negocio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ruben\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ruben\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
