@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\pos\\fedosi\\devops-aula05\\src\\conversaotemperatura.modelo\\conversaotemperatura.modelo.csproj": {}
+    "C:\\Users\\ruben\\Source\\Repos\\conversao_temperatura\\src\\conversaotemperatura.modelo\\conversaotemperatura.modelo.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\pos\\fedosi\\devops-aula05\\src\\conversaotemperatura.modelo\\conversaotemperatura.modelo.csproj": {
+    "C:\\Users\\ruben\\Source\\Repos\\conversao_temperatura\\src\\conversaotemperatura.modelo\\conversaotemperatura.modelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\pos\\fedosi\\devops-aula05\\src\\conversaotemperatura.modelo\\conversaotemperatura.modelo.csproj",
+        "projectUniqueName": "C:\\Users\\ruben\\Source\\Repos\\conversao_temperatura\\src\\conversaotemperatura.modelo\\conversaotemperatura.modelo.csproj",
         "projectName": "conversaotemperatura.modelo",
-        "projectPath": "C:\\projetos\\pos\\fedosi\\devops-aula05\\src\\conversaotemperatura.modelo\\conversaotemperatura.modelo.csproj",
+        "projectPath": "C:\\Users\\ruben\\Source\\Repos\\conversao_temperatura\\src\\conversaotemperatura.modelo\\conversaotemperatura.modelo.csproj",
         "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\pos\\fedosi\\devops-aula05\\src\\conversaotemperatura.modelo\\obj\\",
+        "outputPath": "C:\\Users\\ruben\\Source\\Repos\\conversao_temperatura\\src\\conversaotemperatura.modelo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
